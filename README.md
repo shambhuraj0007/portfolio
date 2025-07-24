@@ -5,7 +5,7 @@ A **modern and immersive 3D developer portfolio** built with **React**, **Three.
 ---
 
 ## 📸 Live Demo  
-🔗 [View Portfolio](https://your-deployment-link.vercel.app)
+🔗 [View Portfolio](https://portfolio-xi-virid-26xa0s31cf.vercel.app/)
 
 ---
 
